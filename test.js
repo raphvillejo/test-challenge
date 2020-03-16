@@ -8,7 +8,8 @@
  *
  * What clean code principles you have been used, and why?
  * In this algorithm, we cannot apply a lot of clean codes. I can say
- * that the function is simple and easy to read and most importantly, speed performance is better than the recursive. I also prefer to use arrow function (es6).
+ * that the function is simple and  importantly speed performance is better than the recursive.
+ * I also prefer to use arrow function(es6).
  *
  * Bonus: can you make your code recursive? If yes, what would be your time and space complexity?
  * Yes, but I think the Time Complexity will be bad for our algorithm.
